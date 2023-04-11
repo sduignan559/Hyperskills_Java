@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GuessAnimalTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-03-02T00:12:35" hostname="DESKTOP-3RC695S" time="4.526">
+  <properties/>
+  <testcase name="start" classname="GuessAnimalTest" time="4.526">
+    <failure message="java.lang.AssertionError: Wrong answer in test #2&#10;&#10;The average depth should be 3&#10;Expected matches: &quot;(?is).*average[^\\R]*3.*&quot;&#10;Actual data is: &quot;The Knowledge Tree stats&#10;&#10;- root node                    - It is a mammal.&#10;- total number of nodes        11&#10;- total number of animals      6&#10;- total number of statements   5&#10;- height of the tree           2147483647&#10;- minimum animal's depth       -2147483648&#10;- average animal's depth       2.4&#10;&#10;&#10;Welcome to the animal expert system&#10;&#10;1. Play the guessing game&#10;2. List of all animals&#10;3. Search for an animal&#10;4. Calculate statistics&#10;5. Print the Knowledge Tree&#10;0. Exit&quot;.&#10;&#10;Please find below the output of your program during this failed test.&#10;Note that the '&gt;' character indicates the beginning of the input line.&#10;&#10;---&#10;&#10;I want to learn about animals.&#10;Which animal do you like most?&#10;&gt; cat&#10;&#10;Welcome to the animal expert system&#10;&#10;1. Play the guessing game&#10;2. List of all animals&#10;3. Search for an animal&#10;4. Calculate statistics&#10;5. Print the Knowledge Tree&#10;0. Exit&#10;&gt; 1&#10;Let's play a game!&#10;Press enter when you're ready.&#10;You think of an animal, and I guess it.&#10;&gt; &#10;Is it a cat?&#10;&gt; no&#10;I give up. What animal do you have in mind?&#10;&gt; shark&#10;Specify a fact that distinguishes a cat from a shark.&#10;The sentence should satisfy one of the following templates:&#10;- It can ...&#10;- It has ...&#10;- It is a/an ...&#10;&gt; it is a mammal&#10;Specify a fact that distinguishes a cat from a shark.&#10;The sentence should satisfy one of the following templates:&#10;- It can ...&#10;- It has ...&#10;- It is a/an ...&#10;Is the statement correct for a shark?&#10;&gt; no&#10;I learned the following facts about animals:&#10;- The shark isn't a mammal.&#10;- The cat is a mammal.&#10;I can distinguish these animals by asking the question:&#10;- Is it a mammal?&#10;&#10;Would you like to play again?&#10;&gt; yes&#10;You think of an animal, and I guess it.&#10;press enter&#10;&gt; &#10;- Is it a mammal?&#10;&gt; yes&#10;Is it a cat?&#10;I win!1&#10;&gt; no&#10;I give up. What animal do you have in mind?&#10;&gt; fox&#10;Specify a fact that distinguishes a fox from a cat.&#10;The sentence should satisfy one of the following templates:&#10;- It can ...&#10;- It has ...&#10;- It is a/an ...&#10;&gt; it is living in the forest&#10;Is the statement correct for a fox?&#10;&gt; yes&#10;would you like to play again&#10;&gt; yes&#10;You think of an animal, and I guess it.&#10;press enter&#10;&gt; &#10;- Is it a mammal?&#10;&gt; yes&#10;- Is it living in the forest?&#10;&gt; no&#10;Is it a cat?&#10;I win!1&#10;&gt; no&#10;I give up. What animal do you have in mind?&#10;&gt; dog&#10;Specify a fact that distinguishes a dog from a cat.&#10;The sentence should satisfy one of the following templates:&#10;- It can ...&#10;- It has ...&#10;- It is a/an ...&#10;&gt; it can climb trees&#10;Is the statement correct for a dog?&#10;&gt; no&#10;would you like to play again&#10;&gt; yes&#10;You think of an animal, and I guess it.&#10;press enter&#10;&gt; &#10;- Is it a mammal?&#10;&gt; yes&#10;- Is it living in the forest?&#10;&gt; yes&#10;Is it a fox?&#10;I win!1&#10;&gt; no&#10;I give up. What animal do you have in mind?&#10;&gt; wolf&#10;Specify a fact that distinguishes a wolf from a fox.&#10;The sentence should satisfy one of the following templates:&#10;- It can ...&#10;- It has ...&#10;- It is a/an ...&#10;&gt; it has a long bushy tail&#10;Is the statement correct for a wolf?&#10;&gt; no&#10;would you like to play again&#10;&gt; yes&#10;You think of an animal, and I guess it.&#10;press enter&#10;&gt; &#10;- Is it a mammal?&#10;&gt; yes&#10;- Is it living in the forest?&#10;&gt; yes&#10;- Does it have a long bushy tail?&#10;&gt; no&#10;Is it a wolf?&#10;I win!1&#10;&gt; no&#10;I give up. What animal do you have in mind?&#10;&gt; hare&#10;Specify a fact that distinguishes a hare from a wolf.&#10;The sentence should satisfy one of the following templates:&#10;- It can ...&#10;- It has ...&#10;- It is a/an ...&#10;&gt; it is a shy animal&#10;Is the statement correct for a hare?&#10;&gt; yes&#10;would you like to play again&#10;&gt; no&#10;&#10;Welcome to the animal expert system&#10;&#10;1. Play the guessing game&#10;2. List of all animals&#10;3. Search for an animal&#10;4. Calculate statistics&#10;5. Print the Knowledge Tree&#10;0. Exit&#10;&gt; 2&#10;Here are the animals I know:&#10;cat&#10;dog&#10;fox&#10;hare&#10;shark&#10;wolf&#10;&#10;Welcome to the animal expert system&#10;&#10;1. Play the guessing game&#10;2. List of all animals&#10;3. Search for an animal&#10;4. Calculate statistics&#10;5. Print the Knowledge Tree&#10;0. Exit&#10;&gt; 3&#10;Enter the animal:&#10;&gt; wolf&#10;- It is a mammal.&#10;- It is living in the forest.&#10;- It doesn't have a long bushy tail.&#10;- It isn't a shy animal.&#10;&#10;Welcome to the animal expert system&#10;&#10;1. Play the guessing game&#10;2. List of all animals&#10;3. Search for an animal&#10;4. Calculate statistics&#10;5. Print the Knowledge Tree&#10;0. Exit&#10;&gt; 4&#10;The Knowledge Tree stats&#10;&#10;- root node                    - It is a mammal.&#10;- total number of nodes        11&#10;- total number of animals      6&#10;- total number of statements   5&#10;- height of the tree           2147483647&#10;- minimum animal's depth       -2147483648&#10;- average animal's depth       2.4&#10;&#10;&#10;Welcome to the animal expert system&#10;&#10;1. Play the guessing game&#10;2. List of all animals&#10;3. Search for an animal&#10;4. Calculate statistics&#10;5. Print the Knowledge Tree&#10;0. Exit" type="java.lang.AssertionError">java.lang.AssertionError: Wrong answer in test #2
+
+The average depth should be 3
+Expected matches: &quot;(?is).*average[^\\R]*3.*&quot;
+Actual data is: &quot;The Knowledge Tree stats
+
+- root node                    - It is a mammal.
+- total number of nodes        11
+- total number of animals      6
+- total number of statements   5
+- height of the tree           2147483647
+- minimum animal's depth       -2147483648
+- average animal's depth       2.4
+
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit&quot;.
+
+Please find below the output of your program during this failed test.
+Note that the '&gt;' character indicates the beginning of the input line.
+
+---
+
+I want to learn about animals.
+Which animal do you like most?
+&gt; cat
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+&gt; 1
+Let's play a game!
+Press enter when you're ready.
+You think of an animal, and I guess it.
+&gt; 
+Is it a cat?
+&gt; no
+I give up. What animal do you have in mind?
+&gt; shark
+Specify a fact that distinguishes a cat from a shark.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+&gt; it is a mammal
+Specify a fact that distinguishes a cat from a shark.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+Is the statement correct for a shark?
+&gt; no
+I learned the following facts about animals:
+- The shark isn't a mammal.
+- The cat is a mammal.
+I can distinguish these animals by asking the question:
+- Is it a mammal?
+
+Would you like to play again?
+&gt; yes
+You think of an animal, and I guess it.
+press enter
+&gt; 
+- Is it a mammal?
+&gt; yes
+Is it a cat?
+I win!1
+&gt; no
+I give up. What animal do you have in mind?
+&gt; fox
+Specify a fact that distinguishes a fox from a cat.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+&gt; it is living in the forest
+Is the statement correct for a fox?
+&gt; yes
+would you like to play again
+&gt; yes
+You think of an animal, and I guess it.
+press enter
+&gt; 
+- Is it a mammal?
+&gt; yes
+- Is it living in the forest?
+&gt; no
+Is it a cat?
+I win!1
+&gt; no
+I give up. What animal do you have in mind?
+&gt; dog
+Specify a fact that distinguishes a dog from a cat.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+&gt; it can climb trees
+Is the statement correct for a dog?
+&gt; no
+would you like to play again
+&gt; yes
+You think of an animal, and I guess it.
+press enter
+&gt; 
+- Is it a mammal?
+&gt; yes
+- Is it living in the forest?
+&gt; yes
+Is it a fox?
+I win!1
+&gt; no
+I give up. What animal do you have in mind?
+&gt; wolf
+Specify a fact that distinguishes a wolf from a fox.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+&gt; it has a long bushy tail
+Is the statement correct for a wolf?
+&gt; no
+would you like to play again
+&gt; yes
+You think of an animal, and I guess it.
+press enter
+&gt; 
+- Is it a mammal?
+&gt; yes
+- Is it living in the forest?
+&gt; yes
+- Does it have a long bushy tail?
+&gt; no
+Is it a wolf?
+I win!1
+&gt; no
+I give up. What animal do you have in mind?
+&gt; hare
+Specify a fact that distinguishes a hare from a wolf.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+&gt; it is a shy animal
+Is the statement correct for a hare?
+&gt; yes
+would you like to play again
+&gt; no
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+&gt; 2
+Here are the animals I know:
+cat
+dog
+fox
+hare
+shark
+wolf
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+&gt; 3
+Enter the animal:
+&gt; wolf
+- It is a mammal.
+- It is living in the forest.
+- It doesn't have a long bushy tail.
+- It isn't a shy animal.
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+&gt; 4
+The Knowledge Tree stats
+
+- root node                    - It is a mammal.
+- total number of nodes        11
+- total number of animals      6
+- total number of statements   5
+- height of the tree           2147483647
+- minimum animal's depth       -2147483648
+- average animal's depth       2.4
+
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.hyperskill.hstest.stage.StageTest.start(StageTest.java:203)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.runTestClass(JUnitTestClassExecutor.java:110)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:58)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:38)
+	at org.gradle.api.internal.tasks.testing.junit.AbstractJUnitTestClassProcessor.processTestClass(AbstractJUnitTestClassProcessor.java:62)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.processTestClass(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker$2.run(TestWorker.java:176)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)
+	at org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:133)
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:71)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+	at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+</failure>
+  </testcase>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+?[0;34mScenario 'file-formats' is started.
+?[0m?[0;34m
+I want to learn about animals.
+Which animal do you like most?
+> cat
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 1
+Let's play a game!
+Press enter when you're ready.
+You think of an animal, and I guess it.
+> 
+Is it a cat?
+> no
+I give up. What animal do you have in mind?
+> dog
+Specify a fact that distinguishes a cat from a dog.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> It can climbs tree
+Specify a fact that distinguishes a cat from a dog.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+Is the statement correct for a dog?
+> No
+I learned the following facts about animals:
+- The dog can't climbs tree.
+- The cat can climbs tree.
+I can distinguish these animals by asking the question:
+- Can it climbs tree?
+
+Would you like to play again?
+> Yes
+You think of an animal, and I guess it.
+press enter
+> 
+- Can it climbs tree?
+> Yes
+Is it a cat?
+I win!1
+> No
+I give up. What animal do you have in mind?
+> a lynx
+Specify a fact that distinguishes a lynx from a cat.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> It is living in the forest
+Is the statement correct for a lynx?
+> yes
+would you like to play again
+> no
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 0
+Thank you and goodbye!
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 0
+Thank you and goodbye!
+I want to learn about animals.
+Which animal do you like most?
+> cat
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 1
+Let's play a game!
+Press enter when you're ready.
+You think of an animal, and I guess it.
+> 
+Is it a cat?
+> no
+I give up. What animal do you have in mind?
+> dog
+Specify a fact that distinguishes a cat from a dog.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> It can climbs tree
+Specify a fact that distinguishes a cat from a dog.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+Is the statement correct for a dog?
+> No
+I learned the following facts about animals:
+- The dog can't climbs tree.
+- The cat can climbs tree.
+I can distinguish these animals by asking the question:
+- Can it climbs tree?
+
+Would you like to play again?
+> Yes
+You think of an animal, and I guess it.
+press enter
+> 
+- Can it climbs tree?
+> Yes
+Is it a cat?
+I win!1
+> No
+I give up. What animal do you have in mind?
+> a lynx
+Specify a fact that distinguishes a lynx from a cat.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> It is living in the forest
+Is the statement correct for a lynx?
+> yes
+would you like to play again
+> no
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 0
+Thank you and goodbye!
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 0
+Thank you and goodbye!
+I want to learn about animals.
+Which animal do you like most?
+> cat
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 1
+Let's play a game!
+Press enter when you're ready.
+You think of an animal, and I guess it.
+> 
+Is it a cat?
+> no
+I give up. What animal do you have in mind?
+> dog
+Specify a fact that distinguishes a cat from a dog.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> It can climbs tree
+Specify a fact that distinguishes a cat from a dog.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+Is the statement correct for a dog?
+> No
+I learned the following facts about animals:
+- The dog can't climbs tree.
+- The cat can climbs tree.
+I can distinguish these animals by asking the question:
+- Can it climbs tree?
+
+Would you like to play again?
+> Yes
+You think of an animal, and I guess it.
+press enter
+> 
+- Can it climbs tree?
+> Yes
+Is it a cat?
+I win!1
+> No
+I give up. What animal do you have in mind?
+> a lynx
+Specify a fact that distinguishes a lynx from a cat.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> It is living in the forest
+Is the statement correct for a lynx?
+> yes
+would you like to play again
+> no
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 0
+Thank you and goodbye!
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 0
+Thank you and goodbye!
+?[1;31m
+Start test 2?[0m
+?[0;34mScenario 'menu' is started.
+?[0m?[0;34m
+I want to learn about animals.
+Which animal do you like most?
+> cat
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 1
+Let's play a game!
+Press enter when you're ready.
+You think of an animal, and I guess it.
+> 
+Is it a cat?
+> no
+I give up. What animal do you have in mind?
+> shark
+Specify a fact that distinguishes a cat from a shark.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> it is a mammal
+Specify a fact that distinguishes a cat from a shark.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+Is the statement correct for a shark?
+> no
+I learned the following facts about animals:
+- The shark isn't a mammal.
+- The cat is a mammal.
+I can distinguish these animals by asking the question:
+- Is it a mammal?
+
+Would you like to play again?
+> yes
+You think of an animal, and I guess it.
+press enter
+> 
+- Is it a mammal?
+> yes
+Is it a cat?
+I win!1
+> no
+I give up. What animal do you have in mind?
+> fox
+Specify a fact that distinguishes a fox from a cat.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> it is living in the forest
+Is the statement correct for a fox?
+> yes
+would you like to play again
+> yes
+You think of an animal, and I guess it.
+press enter
+> 
+- Is it a mammal?
+> yes
+- Is it living in the forest?
+> no
+Is it a cat?
+I win!1
+> no
+I give up. What animal do you have in mind?
+> dog
+Specify a fact that distinguishes a dog from a cat.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> it can climb trees
+Is the statement correct for a dog?
+> no
+would you like to play again
+> yes
+You think of an animal, and I guess it.
+press enter
+> 
+- Is it a mammal?
+> yes
+- Is it living in the forest?
+> yes
+Is it a fox?
+I win!1
+> no
+I give up. What animal do you have in mind?
+> wolf
+Specify a fact that distinguishes a wolf from a fox.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> it has a long bushy tail
+Is the statement correct for a wolf?
+> no
+would you like to play again
+> yes
+You think of an animal, and I guess it.
+press enter
+> 
+- Is it a mammal?
+> yes
+- Is it living in the forest?
+> yes
+- Does it have a long bushy tail?
+> no
+Is it a wolf?
+I win!1
+> no
+I give up. What animal do you have in mind?
+> hare
+Specify a fact that distinguishes a hare from a wolf.
+The sentence should satisfy one of the following templates:
+- It can ...
+- It has ...
+- It is a/an ...
+> it is a shy animal
+Is the statement correct for a hare?
+> yes
+would you like to play again
+> no
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 2
+Here are the animals I know:
+cat
+dog
+fox
+hare
+shark
+wolf
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 3
+Enter the animal:
+> wolf
+- It is a mammal.
+- It is living in the forest.
+- It doesn't have a long bushy tail.
+- It isn't a shy animal.
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+> 4
+The Knowledge Tree stats
+
+- root node                    - It is a mammal.
+- total number of nodes        11
+- total number of animals      6
+- total number of statements   5
+- height of the tree           2147483647
+- minimum animal's depth       -2147483648
+- average animal's depth       2.4
+
+
+Welcome to the animal expert system
+
+1. Play the guessing game
+2. List of all animals
+3. Search for an animal
+4. Calculate statistics
+5. Print the Knowledge Tree
+0. Exit
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
