@@ -1,0 +1,1 @@
+A client-server application that allows clients to store data in JSON format.
