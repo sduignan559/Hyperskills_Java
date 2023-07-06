@@ -1,7 +1,9 @@
 A client-server application that allows clients to store data in JSON format.
 
--Example Output
----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+Example Output
+----------------------------------------------------------------------------------------------------------------------------------------
+````
 > java Main -in setFile.json 
 Client started!
 Sent:
@@ -20,6 +22,7 @@ Sent:
       }
    }
 }
+
 Received: {"response":"OK"}
 > java Main -in getFile.json 
 Client started!
@@ -47,6 +50,7 @@ Received:
       }
    }
 }
+
 > java Main -in deleteFile.json 
 Client started!
 Sent: {"type":"delete","key":["person","car","year"]}
@@ -68,7 +72,9 @@ Received:
       }
    }
 }
+
 > java Main -t exit 
 Client started!
 Sent: {"type":"exit"}
 Received: {"response":"OK"}
+````
