@@ -1,4 +1,4 @@
-A simple game of battleship played useing the CLI and 2*2 array
+A simple game of battleship played using the CLI and 2*2 array
 
 -Example output
 ----------------------------------------------------------------------------------------------------
