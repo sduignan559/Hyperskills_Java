@@ -1,7 +1,8 @@
 Program that manages a car-sharing service allowing companies to rent out their cars and find customers by storing the information on a H2 database.
 
-example output
+Example output
 ------------------------------------------------------------------------------------------------------------------
+```
 1. Log in as a manager
 2. Log in as a customer
 3. Create a customer
@@ -139,4 +140,4 @@ You've returned a rented car!
 3. Create a customer
 0. Exit
 > 0
---------------------------------------------------------------------------------------------------------------------
+```
