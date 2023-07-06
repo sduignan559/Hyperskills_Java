@@ -1,0 +1,1 @@
+An application that can identify a file's type by analyzing its contents.

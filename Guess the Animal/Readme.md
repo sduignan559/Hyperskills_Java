@@ -1,1 +1,1 @@
-A simple problem that uses binary tress and AI to create a program that guesses an animal the player is thinking. The program also learns new information and enhance its guessing accuracy in subsequent attempts.
+A simple game that uses binary tress and AI to create a program that guesses an animal the player is thinking. The program then use the new information provided by the user and  to its guessing accuracy in subsequent attempts.

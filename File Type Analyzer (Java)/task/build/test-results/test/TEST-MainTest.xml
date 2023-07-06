@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-05T01:49:16" hostname="DESKTOP-3RC695S" time="6.623">
+  <properties/>
+  <testcase name="start" classname="MainTest" time="6.623"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+%PDF-
+PDF document
+PFDF%PDF-PDF
+doc.pdf: PDF document
+pmview
+PCP pmview config
+PFDF%PDF-PDF
+doc.pdf: Unknown file type
+PK
+Zip archive
+PFDF%PDF-PDF
+doc.pdf: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+PFDF%PDF-PDF
+doc.pdf: Unknown file type
+W.o.r.d
+MS Office Word 2003
+PFDF%PDF-PDF
+doc.pdf: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+PFDF%PDF-PDF
+doc.pdf: Unknown file type
+word/_rels
+MS Office Word 2007+
+PFDF%PDF-PDF
+doc.pdf: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+PFDF%PDF-PDF
+doc.pdf: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+PFDF%PDF-PDF
+doc.pdf: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+PFDF%PDF-PDF
+doc.pdf: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+PFDF%PDF-PDF
+doc.pdf: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+PFDF%PDF-PDF
+doc.pdf: Unknown file type
+%PDF-
+PDF document
+PFPDF-PDFABC
+text.pdf: Unknown file type
+pmview
+PCP pmview config
+PFPDF-PDFABC
+text.pdf: Unknown file type
+PK
+Zip archive
+PFPDF-PDFABC
+text.pdf: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+PFPDF-PDFABC
+text.pdf: Unknown file type
+W.o.r.d
+MS Office Word 2003
+PFPDF-PDFABC
+text.pdf: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+PFPDF-PDFABC
+text.pdf: Unknown file type
+word/_rels
+MS Office Word 2007+
+PFPDF-PDFABC
+text.pdf: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+PFPDF-PDFABC
+text.pdf: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+PFPDF-PDFABC
+text.pdf: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+PFPDF-PDFABC
+text.pdf: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+PFPDF-PDFABC
+text.pdf: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+PFPDF-PDFABC
+text.pdf: Unknown file type
+?[1;31m
+Start test 2?[0m
+%PDF-
+PDF document
+PCK
+doc.zip: Unknown file type
+pmview
+PCP pmview config
+PCK
+doc.zip: Unknown file type
+PK
+Zip archive
+PCK
+doc.zip: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+PCK
+doc.zip: Unknown file type
+W.o.r.d
+MS Office Word 2003
+PCK
+doc.zip: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+PCK
+doc.zip: Unknown file type
+word/_rels
+MS Office Word 2007+
+PCK
+doc.zip: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+PCK
+doc.zip: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+PCK
+doc.zip: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+PCK
+doc.zip: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+PCK
+doc.zip: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+PCK
+doc.zip: Unknown file type
+%PDF-
+PDF document
+PKC
+doc1.zip: Unknown file type
+pmview
+PCP pmview config
+PKC
+doc1.zip: Unknown file type
+PK
+Zip archive
+PKC
+doc1.zip: Zip archive
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+PKC
+doc1.zip: Unknown file type
+W.o.r.d
+MS Office Word 2003
+PKC
+doc1.zip: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+PKC
+doc1.zip: Unknown file type
+word/_rels
+MS Office Word 2007+
+PKC
+doc1.zip: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+PKC
+doc1.zip: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+PKC
+doc1.zip: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+PKC
+doc1.zip: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+PKC
+doc1.zip: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+PKC
+doc1.zip: Unknown file type
+?[1;31m
+Start test 3?[0m
+%PDF-
+PDF document
+pmview
+main: Unknown file type
+pmview
+PCP pmview config
+pmview
+main: PCP pmview config
+PK
+Zip archive
+pmview
+main: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+pmview
+main: Unknown file type
+W.o.r.d
+MS Office Word 2003
+pmview
+main: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+pmview
+main: Unknown file type
+word/_rels
+MS Office Word 2007+
+pmview
+main: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+pmview
+main: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+pmview
+main: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+pmview
+main: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+pmview
+main: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+pmview
+main: Unknown file type
+%PDF-
+PDF document
+pmconfigview
+main.config: Unknown file type
+pmview
+PCP pmview config
+pmconfigview
+main.config: Unknown file type
+PK
+Zip archive
+pmconfigview
+main.config: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+pmconfigview
+main.config: Unknown file type
+W.o.r.d
+MS Office Word 2003
+pmconfigview
+main.config: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+pmconfigview
+main.config: Unknown file type
+word/_rels
+MS Office Word 2007+
+pmconfigview
+main.config: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+pmconfigview
+main.config: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+pmconfigview
+main.config: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+pmconfigview
+main.config: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+pmconfigview
+main.config: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+pmconfigview
+main.config: Unknown file type
+?[1;31m
+Start test 4?[0m
+%PDF-
+PDF document
+vnd.oasis.opendocument.presentation
+slides1.odp: Unknown file type
+pmview
+PCP pmview config
+vnd.oasis.opendocument.presentation
+slides1.odp: Unknown file type
+PK
+Zip archive
+vnd.oasis.opendocument.presentation
+slides1.odp: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+vnd.oasis.opendocument.presentation
+slides1.odp: OpenDocument presentation
+W.o.r.d
+MS Office Word 2003
+vnd.oasis.opendocument.presentation
+slides1.odp: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+vnd.oasis.opendocument.presentation
+slides1.odp: Unknown file type
+word/_rels
+MS Office Word 2007+
+vnd.oasis.opendocument.presentation
+slides1.odp: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+vnd.oasis.opendocument.presentation
+slides1.odp: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+vnd.oasis.opendocument.presentation
+slides1.odp: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+vnd.oasis.opendocument.presentation
+slides1.odp: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+vnd.oasis.opendocument.presentation
+slides1.odp: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+vnd.oasis.opendocument.presentation
+slides1.odp: Unknown file type
+%PDF-
+PDF document
+vnd.oasis.microsoft.presentation
+slides2.odp: Unknown file type
+pmview
+PCP pmview config
+vnd.oasis.microsoft.presentation
+slides2.odp: Unknown file type
+PK
+Zip archive
+vnd.oasis.microsoft.presentation
+slides2.odp: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+vnd.oasis.microsoft.presentation
+slides2.odp: Unknown file type
+W.o.r.d
+MS Office Word 2003
+vnd.oasis.microsoft.presentation
+slides2.odp: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+vnd.oasis.microsoft.presentation
+slides2.odp: Unknown file type
+word/_rels
+MS Office Word 2007+
+vnd.oasis.microsoft.presentation
+slides2.odp: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+vnd.oasis.microsoft.presentation
+slides2.odp: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+vnd.oasis.microsoft.presentation
+slides2.odp: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+vnd.oasis.microsoft.presentation
+slides2.odp: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+vnd.oasis.microsoft.presentation
+slides2.odp: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+vnd.oasis.microsoft.presentation
+slides2.odp: Unknown file type
+?[1;31m
+Start test 5?[0m
+%PDF-
+PDF document
+W.o.r.kwwwwwwww
+doc.txt: Unknown file type
+pmview
+PCP pmview config
+W.o.r.kwwwwwwww
+doc.txt: Unknown file type
+PK
+Zip archive
+W.o.r.kwwwwwwww
+doc.txt: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+W.o.r.kwwwwwwww
+doc.txt: Unknown file type
+W.o.r.d
+MS Office Word 2003
+W.o.r.kwwwwwwww
+doc.txt: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+W.o.r.kwwwwwwww
+doc.txt: Unknown file type
+word/_rels
+MS Office Word 2007+
+W.o.r.kwwwwwwww
+doc.txt: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+W.o.r.kwwwwwwww
+doc.txt: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+W.o.r.kwwwwwwww
+doc.txt: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+W.o.r.kwwwwwwww
+doc.txt: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+W.o.r.kwwwwwwww
+doc.txt: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+W.o.r.kwwwwwwww
+doc.txt: Unknown file type
+%PDF-
+PDF document
+wwwwwwwwW.o.r.d
+txt.doc: Unknown file type
+pmview
+PCP pmview config
+wwwwwwwwW.o.r.d
+txt.doc: Unknown file type
+PK
+Zip archive
+wwwwwwwwW.o.r.d
+txt.doc: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+wwwwwwwwW.o.r.d
+txt.doc: Unknown file type
+W.o.r.d
+MS Office Word 2003
+wwwwwwwwW.o.r.d
+txt.doc: MS Office Word 2003
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+wwwwwwwwW.o.r.d
+txt.doc: Unknown file type
+word/_rels
+MS Office Word 2007+
+wwwwwwwwW.o.r.d
+txt.doc: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+wwwwwwwwW.o.r.d
+txt.doc: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+wwwwwwwwW.o.r.d
+txt.doc: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+wwwwwwwwW.o.r.d
+txt.doc: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+wwwwwwwwW.o.r.d
+txt.doc: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+wwwwwwwwW.o.r.d
+txt.doc: Unknown file type
+?[1;31m
+Start test 6?[0m
+%PDF-
+PDF document
+P.o.w.e.r.P.o.i
+slides1.ptp: Unknown file type
+pmview
+PCP pmview config
+P.o.w.e.r.P.o.i
+slides1.ptp: Unknown file type
+PK
+Zip archive
+P.o.w.e.r.P.o.i
+slides1.ptp: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+P.o.w.e.r.P.o.i
+slides1.ptp: Unknown file type
+W.o.r.d
+MS Office Word 2003
+P.o.w.e.r.P.o.i
+slides1.ptp: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+P.o.w.e.r.P.o.i
+slides1.ptp: MS Office PowerPoint 2003
+word/_rels
+MS Office Word 2007+
+P.o.w.e.r.P.o.i
+slides1.ptp: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+P.o.w.e.r.P.o.i
+slides1.ptp: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+P.o.w.e.r.P.o.i
+slides1.ptp: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+P.o.w.e.r.P.o.i
+slides1.ptp: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+P.o.w.e.r.P.o.i
+slides1.ptp: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+P.o.w.e.r.P.o.i
+slides1.ptp: Unknown file type
+%PDF-
+PDF document
+P.o.w.e.r.\Sh.o.i
+slides2.ptp: Unknown file type
+pmview
+PCP pmview config
+P.o.w.e.r.\Sh.o.i
+slides2.ptp: Unknown file type
+PK
+Zip archive
+P.o.w.e.r.\Sh.o.i
+slides2.ptp: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+P.o.w.e.r.\Sh.o.i
+slides2.ptp: Unknown file type
+W.o.r.d
+MS Office Word 2003
+P.o.w.e.r.\Sh.o.i
+slides2.ptp: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+P.o.w.e.r.\Sh.o.i
+slides2.ptp: Unknown file type
+word/_rels
+MS Office Word 2007+
+P.o.w.e.r.\Sh.o.i
+slides2.ptp: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+P.o.w.e.r.\Sh.o.i
+slides2.ptp: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+P.o.w.e.r.\Sh.o.i
+slides2.ptp: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+P.o.w.e.r.\Sh.o.i
+slides2.ptp: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+P.o.w.e.r.\Sh.o.i
+slides2.ptp: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+P.o.w.e.r.\Sh.o.i
+slides2.ptp: Unknown file type
+?[1;31m
+Start test 7?[0m
+%PDF-
+PDF document
+word/\_rels
+doc.txt: Unknown file type
+pmview
+PCP pmview config
+word/\_rels
+doc.txt: Unknown file type
+PK
+Zip archive
+word/\_rels
+doc.txt: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+word/\_rels
+doc.txt: Unknown file type
+W.o.r.d
+MS Office Word 2003
+word/\_rels
+doc.txt: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+word/\_rels
+doc.txt: Unknown file type
+word/_rels
+MS Office Word 2007+
+word/\_rels
+doc.txt: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+word/\_rels
+doc.txt: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+word/\_rels
+doc.txt: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+word/\_rels
+doc.txt: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+word/\_rels
+doc.txt: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+word/\_rels
+doc.txt: Unknown file type
+%PDF-
+PDF document
+\word/_rels
+txt.doc: Unknown file type
+pmview
+PCP pmview config
+\word/_rels
+txt.doc: Unknown file type
+PK
+Zip archive
+\word/_rels
+txt.doc: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+\word/_rels
+txt.doc: Unknown file type
+W.o.r.d
+MS Office Word 2003
+\word/_rels
+txt.doc: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+\word/_rels
+txt.doc: Unknown file type
+word/_rels
+MS Office Word 2007+
+\word/_rels
+txt.doc: MS Office Word 2007+
+ppt/_rels
+MS Office PowerPoint 2007+
+\word/_rels
+txt.doc: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+\word/_rels
+txt.doc: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+\word/_rels
+txt.doc: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+\word/_rels
+txt.doc: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+\word/_rels
+txt.doc: Unknown file type
+?[1;31m
+Start test 8?[0m
+%PDF-
+PDF document
+afeefa%ppt/_relsasdad
+pres1.pptx: Unknown file type
+pmview
+PCP pmview config
+afeefa%ppt/_relsasdad
+pres1.pptx: Unknown file type
+PK
+Zip archive
+afeefa%ppt/_relsasdad
+pres1.pptx: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+afeefa%ppt/_relsasdad
+pres1.pptx: Unknown file type
+W.o.r.d
+MS Office Word 2003
+afeefa%ppt/_relsasdad
+pres1.pptx: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+afeefa%ppt/_relsasdad
+pres1.pptx: Unknown file type
+word/_rels
+MS Office Word 2007+
+afeefa%ppt/_relsasdad
+pres1.pptx: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+afeefa%ppt/_relsasdad
+pres1.pptx: MS Office PowerPoint 2007+
+xl/_rels
+MS Office Excel 2007+
+afeefa%ppt/_relsasdad
+pres1.pptx: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+afeefa%ppt/_relsasdad
+pres1.pptx: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+afeefa%ppt/_relsasdad
+pres1.pptx: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+afeefa%ppt/_relsasdad
+pres1.pptx: Unknown file type
+%PDF-
+PDF document
+ppasfsfafdaet/_rels
+pres2.pptx: Unknown file type
+pmview
+PCP pmview config
+ppasfsfafdaet/_rels
+pres2.pptx: Unknown file type
+PK
+Zip archive
+ppasfsfafdaet/_rels
+pres2.pptx: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+ppasfsfafdaet/_rels
+pres2.pptx: Unknown file type
+W.o.r.d
+MS Office Word 2003
+ppasfsfafdaet/_rels
+pres2.pptx: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+ppasfsfafdaet/_rels
+pres2.pptx: Unknown file type
+word/_rels
+MS Office Word 2007+
+ppasfsfafdaet/_rels
+pres2.pptx: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+ppasfsfafdaet/_rels
+pres2.pptx: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+ppasfsfafdaet/_rels
+pres2.pptx: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+ppasfsfafdaet/_rels
+pres2.pptx: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+ppasfsfafdaet/_rels
+pres2.pptx: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+ppasfsfafdaet/_rels
+pres2.pptx: Unknown file type
+?[1;31m
+Start test 9?[0m
+%PDF-
+PDF document
+asdaxl/_rels
+sheet1.xls: Unknown file type
+pmview
+PCP pmview config
+asdaxl/_rels
+sheet1.xls: Unknown file type
+PK
+Zip archive
+asdaxl/_rels
+sheet1.xls: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+asdaxl/_rels
+sheet1.xls: Unknown file type
+W.o.r.d
+MS Office Word 2003
+asdaxl/_rels
+sheet1.xls: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+asdaxl/_rels
+sheet1.xls: Unknown file type
+word/_rels
+MS Office Word 2007+
+asdaxl/_rels
+sheet1.xls: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+asdaxl/_rels
+sheet1.xls: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+asdaxl/_rels
+sheet1.xls: MS Office Excel 2007+
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+asdaxl/_rels
+sheet1.xls: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+asdaxl/_rels
+sheet1.xls: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+asdaxl/_rels
+sheet1.xls: Unknown file type
+%PDF-
+PDF document
+x2/_reasdadls
+sheet2.xls: Unknown file type
+pmview
+PCP pmview config
+x2/_reasdadls
+sheet2.xls: Unknown file type
+PK
+Zip archive
+x2/_reasdadls
+sheet2.xls: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+x2/_reasdadls
+sheet2.xls: Unknown file type
+W.o.r.d
+MS Office Word 2003
+x2/_reasdadls
+sheet2.xls: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+x2/_reasdadls
+sheet2.xls: Unknown file type
+word/_rels
+MS Office Word 2007+
+x2/_reasdadls
+sheet2.xls: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+x2/_reasdadls
+sheet2.xls: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+x2/_reasdadls
+sheet2.xls: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+x2/_reasdadls
+sheet2.xls: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+x2/_reasdadls
+sheet2.xls: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+x2/_reasdadls
+sheet2.xls: Unknown file type
+?[1;31m
+Start test 10?[0m
+%PDF-
+PDF document
+\\\\\aasdw-----BEGIN\CERTIFICATE-----
+cert.pem: Unknown file type
+pmview
+PCP pmview config
+\\\\\aasdw-----BEGIN\CERTIFICATE-----
+cert.pem: Unknown file type
+PK
+Zip archive
+\\\\\aasdw-----BEGIN\CERTIFICATE-----
+cert.pem: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+\\\\\aasdw-----BEGIN\CERTIFICATE-----
+cert.pem: Unknown file type
+W.o.r.d
+MS Office Word 2003
+\\\\\aasdw-----BEGIN\CERTIFICATE-----
+cert.pem: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+\\\\\aasdw-----BEGIN\CERTIFICATE-----
+cert.pem: Unknown file type
+word/_rels
+MS Office Word 2007+
+\\\\\aasdw-----BEGIN\CERTIFICATE-----
+cert.pem: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+\\\\\aasdw-----BEGIN\CERTIFICATE-----
+cert.pem: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+\\\\\aasdw-----BEGIN\CERTIFICATE-----
+cert.pem: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+\\\\\aasdw-----BEGIN\CERTIFICATE-----
+cert.pem: PEM certificate
+ftypjp2
+ISO Media JPEG 2000
+\\\\\aasdw-----BEGIN\CERTIFICATE-----
+cert.pem: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+\\\\\aasdw-----BEGIN\CERTIFICATE-----
+cert.pem: Unknown file type
+%PDF-
+PDF document
+\\\\\adww-----BEGIN\CERTIFICATE-----
+cert_core.pem: Unknown file type
+pmview
+PCP pmview config
+\\\\\adww-----BEGIN\CERTIFICATE-----
+cert_core.pem: Unknown file type
+PK
+Zip archive
+\\\\\adww-----BEGIN\CERTIFICATE-----
+cert_core.pem: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+\\\\\adww-----BEGIN\CERTIFICATE-----
+cert_core.pem: Unknown file type
+W.o.r.d
+MS Office Word 2003
+\\\\\adww-----BEGIN\CERTIFICATE-----
+cert_core.pem: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+\\\\\adww-----BEGIN\CERTIFICATE-----
+cert_core.pem: Unknown file type
+word/_rels
+MS Office Word 2007+
+\\\\\adww-----BEGIN\CERTIFICATE-----
+cert_core.pem: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+\\\\\adww-----BEGIN\CERTIFICATE-----
+cert_core.pem: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+\\\\\adww-----BEGIN\CERTIFICATE-----
+cert_core.pem: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+\\\\\adww-----BEGIN\CERTIFICATE-----
+cert_core.pem: PEM certificate
+ftypjp2
+ISO Media JPEG 2000
+\\\\\adww-----BEGIN\CERTIFICATE-----
+cert_core.pem: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+\\\\\adww-----BEGIN\CERTIFICATE-----
+cert_core.pem: Unknown file type
+?[1;31m
+Start test 11?[0m
+%PDF-
+PDF document
+ftypjp2ddddddaa
+1.jpg: Unknown file type
+pmview
+PCP pmview config
+ftypjp2ddddddaa
+1.jpg: Unknown file type
+PK
+Zip archive
+ftypjp2ddddddaa
+1.jpg: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+ftypjp2ddddddaa
+1.jpg: Unknown file type
+W.o.r.d
+MS Office Word 2003
+ftypjp2ddddddaa
+1.jpg: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+ftypjp2ddddddaa
+1.jpg: Unknown file type
+word/_rels
+MS Office Word 2007+
+ftypjp2ddddddaa
+1.jpg: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+ftypjp2ddddddaa
+1.jpg: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+ftypjp2ddddddaa
+1.jpg: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+ftypjp2ddddddaa
+1.jpg: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+ftypjp2ddddddaa
+1.jpg: ISO Media JPEG 2000
+ftypiso2
+ISO Media MP4 Base Media v2
+ftypjp2ddddddaa
+1.jpg: Unknown file type
+%PDF-
+PDF document
+ftypdddjp2dadad
+2.jpg: Unknown file type
+pmview
+PCP pmview config
+ftypdddjp2dadad
+2.jpg: Unknown file type
+PK
+Zip archive
+ftypdddjp2dadad
+2.jpg: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+ftypdddjp2dadad
+2.jpg: Unknown file type
+W.o.r.d
+MS Office Word 2003
+ftypdddjp2dadad
+2.jpg: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+ftypdddjp2dadad
+2.jpg: Unknown file type
+word/_rels
+MS Office Word 2007+
+ftypdddjp2dadad
+2.jpg: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+ftypdddjp2dadad
+2.jpg: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+ftypdddjp2dadad
+2.jpg: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+ftypdddjp2dadad
+2.jpg: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+ftypdddjp2dadad
+2.jpg: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+ftypdddjp2dadad
+2.jpg: Unknown file type
+?[1;31m
+Start test 12?[0m
+%PDF-
+PDF document
+ftypiso2mp4
+tape.jpg: Unknown file type
+pmview
+PCP pmview config
+ftypiso2mp4
+tape.jpg: Unknown file type
+PK
+Zip archive
+ftypiso2mp4
+tape.jpg: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+ftypiso2mp4
+tape.jpg: Unknown file type
+W.o.r.d
+MS Office Word 2003
+ftypiso2mp4
+tape.jpg: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+ftypiso2mp4
+tape.jpg: Unknown file type
+word/_rels
+MS Office Word 2007+
+ftypiso2mp4
+tape.jpg: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+ftypiso2mp4
+tape.jpg: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+ftypiso2mp4
+tape.jpg: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+ftypiso2mp4
+tape.jpg: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+ftypiso2mp4
+tape.jpg: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+ftypiso2mp4
+tape.jpg: ISO Media MP4 Base Media v2
+%PDF-
+PDF document
+mp4ffttypiso2
+tape.mp4: Unknown file type
+pmview
+PCP pmview config
+mp4ffttypiso2
+tape.mp4: Unknown file type
+PK
+Zip archive
+mp4ffttypiso2
+tape.mp4: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+mp4ffttypiso2
+tape.mp4: Unknown file type
+W.o.r.d
+MS Office Word 2003
+mp4ffttypiso2
+tape.mp4: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+mp4ffttypiso2
+tape.mp4: Unknown file type
+word/_rels
+MS Office Word 2007+
+mp4ffttypiso2
+tape.mp4: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+mp4ffttypiso2
+tape.mp4: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+mp4ffttypiso2
+tape.mp4: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+mp4ffttypiso2
+tape.mp4: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+mp4ffttypiso2
+tape.mp4: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+mp4ffttypiso2
+tape.mp4: Unknown file type
+?[1;31m
+Start test 13?[0m
+%PDF-
+PDF document
+PKW.o.r.d
+tape2.jpg: Unknown file type
+pmview
+PCP pmview config
+PKW.o.r.d
+tape2.jpg: Unknown file type
+PK
+Zip archive
+PKW.o.r.d
+tape2.jpg: Zip archive
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+PKW.o.r.d
+tape2.jpg: Unknown file type
+W.o.r.d
+MS Office Word 2003
+PKW.o.r.d
+tape2.jpg: MS Office Word 2003
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+PKW.o.r.d
+tape2.jpg: Unknown file type
+word/_rels
+MS Office Word 2007+
+PKW.o.r.d
+tape2.jpg: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+PKW.o.r.d
+tape2.jpg: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+PKW.o.r.d
+tape2.jpg: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+PKW.o.r.d
+tape2.jpg: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+PKW.o.r.d
+tape2.jpg: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+PKW.o.r.d
+tape2.jpg: Unknown file type
+%PDF-
+PDF document
+%PDF-mp4fftypiso2
+tape2.mp4: PDF document
+pmview
+PCP pmview config
+%PDF-mp4fftypiso2
+tape2.mp4: Unknown file type
+PK
+Zip archive
+%PDF-mp4fftypiso2
+tape2.mp4: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+%PDF-mp4fftypiso2
+tape2.mp4: Unknown file type
+W.o.r.d
+MS Office Word 2003
+%PDF-mp4fftypiso2
+tape2.mp4: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+%PDF-mp4fftypiso2
+tape2.mp4: Unknown file type
+word/_rels
+MS Office Word 2007+
+%PDF-mp4fftypiso2
+tape2.mp4: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+%PDF-mp4fftypiso2
+tape2.mp4: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+%PDF-mp4fftypiso2
+tape2.mp4: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+%PDF-mp4fftypiso2
+tape2.mp4: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+%PDF-mp4fftypiso2
+tape2.mp4: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+%PDF-mp4fftypiso2
+tape2.mp4: ISO Media MP4 Base Media v2
+?[1;31m
+Start test 14?[0m
+%PDF-
+PDF document
+-----BEGIN\CERTIFICATE-----pmview
+tape3.jpg: Unknown file type
+pmview
+PCP pmview config
+-----BEGIN\CERTIFICATE-----pmview
+tape3.jpg: PCP pmview config
+PK
+Zip archive
+-----BEGIN\CERTIFICATE-----pmview
+tape3.jpg: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+-----BEGIN\CERTIFICATE-----pmview
+tape3.jpg: Unknown file type
+W.o.r.d
+MS Office Word 2003
+-----BEGIN\CERTIFICATE-----pmview
+tape3.jpg: Unknown file type
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+-----BEGIN\CERTIFICATE-----pmview
+tape3.jpg: Unknown file type
+word/_rels
+MS Office Word 2007+
+-----BEGIN\CERTIFICATE-----pmview
+tape3.jpg: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+-----BEGIN\CERTIFICATE-----pmview
+tape3.jpg: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+-----BEGIN\CERTIFICATE-----pmview
+tape3.jpg: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+-----BEGIN\CERTIFICATE-----pmview
+tape3.jpg: PEM certificate
+ftypjp2
+ISO Media JPEG 2000
+-----BEGIN\CERTIFICATE-----pmview
+tape3.jpg: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+-----BEGIN\CERTIFICATE-----pmview
+tape3.jpg: Unknown file type
+%PDF-
+PDF document
+%PDF-ftypppfW.o.r.dftypiso
+tape3.mp4: PDF document
+pmview
+PCP pmview config
+%PDF-ftypppfW.o.r.dftypiso
+tape3.mp4: Unknown file type
+PK
+Zip archive
+%PDF-ftypppfW.o.r.dftypiso
+tape3.mp4: Unknown file type
+vnd.oasis.opendocument.presentation
+OpenDocument presentation
+%PDF-ftypppfW.o.r.dftypiso
+tape3.mp4: Unknown file type
+W.o.r.d
+MS Office Word 2003
+%PDF-ftypppfW.o.r.dftypiso
+tape3.mp4: MS Office Word 2003
+P.o.w.e.r.P.o.i
+MS Office PowerPoint 2003
+%PDF-ftypppfW.o.r.dftypiso
+tape3.mp4: Unknown file type
+word/_rels
+MS Office Word 2007+
+%PDF-ftypppfW.o.r.dftypiso
+tape3.mp4: Unknown file type
+ppt/_rels
+MS Office PowerPoint 2007+
+%PDF-ftypppfW.o.r.dftypiso
+tape3.mp4: Unknown file type
+xl/_rels
+MS Office Excel 2007+
+%PDF-ftypppfW.o.r.dftypiso
+tape3.mp4: Unknown file type
+-----BEGIN\CERTIFICATE-----
+PEM certificate
+%PDF-ftypppfW.o.r.dftypiso
+tape3.mp4: Unknown file type
+ftypjp2
+ISO Media JPEG 2000
+%PDF-ftypppfW.o.r.dftypiso
+tape3.mp4: Unknown file type
+ftypiso2
+ISO Media MP4 Base Media v2
+%PDF-ftypppfW.o.r.dftypiso
+tape3.mp4: Unknown file type
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
