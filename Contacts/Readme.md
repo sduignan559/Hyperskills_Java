@@ -1,8 +1,8 @@
 This is a console java application to create contacts (like on the mobile phone) and search for people or organizations by name.
 
-
--Example Output
+Example Output
 --------------------------------------------------------------------------------------------------------------------
+```
 open phonebook.db
 
 [menu] Enter action (add, list, search, count, exit): > count
@@ -79,3 +79,4 @@ Time last edit: 2018-11-20T11:07
 [record] Enter action (edit, delete, menu): > menu
 
 [menu] Enter action (add, list, search, count, exit): > exit
+```
