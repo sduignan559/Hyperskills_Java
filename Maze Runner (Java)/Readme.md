@@ -1,7 +1,8 @@
 A Java program that generates virtual mazes and looks for a way out.
 
-
+Example Output
  --------------------------------------------------------------------------------------------------------
+ ```
  === Menu ===
 1. Generate a new maze
 2. Load a maze
@@ -98,4 +99,5 @@ A Java program that generates virtual mazes and looks for a way out.
 0. Exit
 >0
 Bye!
---------------------------------------------------------------------------------------------------------------------
+
+````
