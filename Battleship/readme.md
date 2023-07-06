@@ -1,8 +1,10 @@
-A simple game of battleship played using the CLI and 2*2 array
+A CLI game of battleship using 2*2 arrays
 
--Example output
-----------------------------------------------------------------------------------------------------
+Example output
+---------------------------------------------------------------------------------------------------------------------------------------
+```
 Player 1, place your ships on the game field
+
 
   1 2 3 4 5 6 7 8 9 10
 A ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
